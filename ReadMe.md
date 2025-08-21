@@ -6,7 +6,7 @@ This GitHub repository contains MATLAB code that accompanies the paper:
 
 published in the *International Journal of Approximate Reasoning* 
 
-WEBLINK WILL SOON BE ADDED HERE
+https://doi.org/10.1016/j.ijar.2025.109549
 
 **author:** Marco Grzegorczyk
 
