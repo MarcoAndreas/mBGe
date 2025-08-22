@@ -11,8 +11,8 @@ This GitHub repository contains MATLAB code that accompanies the paper:
 ```
 Grzegorczyk, M. (2025): Being Bayesian about learning Bayesian networks from hybrid data.
 International Journal of Approximate Reasoning, 187, article 109549. 
-https://doi.org/10.1016/j.ijar.2025.109549
 ```
+[Paper is available here](https://doi.org/10.1016/j.ijar.2025.109549)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
